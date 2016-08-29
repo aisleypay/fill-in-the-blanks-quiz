@@ -1,17 +1,7 @@
-# IPND Stage 2 Final Project
-
-# For this project, you'll be building a Fill-in-the-Blanks quiz.
+# Build a Fill-in-the-Blanks quiz.
 # Your quiz will prompt a user with a paragraph containing several blanks.
 # The user should then be asked to fill in each blank appropriately to complete the paragraph.
 # This can be used as a study tool to help you remember important vocabulary!
-
-# Note: Your game will have to accept user input so, like the Mad Libs generator,
-# you won't be able to run it using Sublime's `Build` feature.
-# Instead you'll need to run the program in Terminal or IDLE.
-# Refer to Work Session 5 if you need a refresher on how to do this.
-
-# To help you get started, we've provided a sample paragraph that you can use when testing your code.
-# Your game should consist of 3 or more levels, so you should add your own paragraphs as well!
 
 
 #Passages and Answers
